@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 반가워요! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 저는 금융 IT 개발자로 성장해나가고 싶은 박진서라고 합니다.\n현재는 우리 FISA 과정을 진행하고 있습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 저는 금융 IT 개발자로 성장해나가고 싶은 박진서라고 합니다. 현재는 우리 FISA 과정을 진행하고 있습니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
